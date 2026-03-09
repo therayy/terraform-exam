@@ -40,5 +40,59 @@ Community-based provider plugins are downloaded automatically when using the `te
   
 </details>
 
-#### Q4: 
+#### Q4: What is the name of the Terraform program that you run locally?
+
+- [ ] `terraform Core`
+- [ ] `terraform init`
+- [ ] `terraform Code`
+- [ ] `terraform Local`
+
+<details>
+  <summary> Answer </summary>
+  
+  Terraform Core
+  
+</details>
+
+#### Q5: What is **NOT** a core IaC principle when it comes to creating an efficient automated environment?
+
+- [ ] Embracing the ever-evolving design
+- [ ] Use of versioned infrastructure
+- [ ] Idempotence setup
+- [ ] Use of self-describing infrastructure
+
+<details>
+  <summary> Answer </summary>
+  
+    "Embracing the ever-evolving design"
+  
+</details>
+
+#### Q6: What does the acronym IaC stand for?
+
+- [ ] Integrated Application Code
+- [ ] Internet and Connectivity
+- [ ] Infrastructure as Code
+- [ ] Interactive Application Component
+
+<details>
+  <summary> Answer </summary>
+  
+  "Infrastructure as Code"
+  
+</details>
+
+#### Q7: What does the "Plan" command in Terraform do?
+
+- [ ] It creates an execution schedule
+- [ ] It plans out your next steps
+- [ ] It acts like a dry run for your code
+- [ ] None of the above
+
+<details>
+  <summary> Answer </summary>
+  
+  "It acts like a dry run for your code"
+  
+</details>
 
