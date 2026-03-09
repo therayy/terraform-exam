@@ -11,7 +11,7 @@ Which of the following commands will allow you to see the help file for the `ini
 <details>
   <summary> Answer </summary>
   
-  `terraform --h init,terraform init -h,terraform -help init`
+  `terraform --h init,terraform init -h,terraform -help init` 
   
 </details>
 
