@@ -25,6 +25,20 @@ Community-based provider plugins are downloaded automatically when using the `te
 <details>
   <summary> Answer </summary>
   
-  `true` 
+  True
   
 </details>
+
+#### Q3: HCL supports user-defined functions.
+
+- [ ] True
+- [ ] False
+<details>
+  <summary> Answer </summary>
+  
+  False
+  
+</details>
+
+#### Q4: 
+
