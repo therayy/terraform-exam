@@ -15,4 +15,16 @@ Which of the following commands will allow you to see the help file for the `ini
   
 </details>
 
-> #### Q2: 
+> #### Q2: True or False?
+
+Community-based provider plugins are downloaded automatically when using the `terraform init` command.
+
+- [ ] True
+- [ ] False
+
+<details>
+  <summary> Answer </summary>
+  
+  `true` 
+  
+</details>
