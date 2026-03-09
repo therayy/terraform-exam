@@ -96,3 +96,16 @@ Community-based provider plugins are downloaded automatically when using the `te
   
 </details>
 
+#### Q8: What are the advantages of using Terraform?
+
+- [ ] To replicate and modify infrastructure quickly
+- [ ] To manage infrastructure on multiple cloud platforms
+- [ ] To track resource changes throughout deployments
+- [ ] All of the above
+
+<details>
+  <summary> Answer </summary>
+  
+  "All of the above"
+  
+</details>
