@@ -7,6 +7,7 @@ Which of the following commands will allow you to see the help file for the `ini
 - [ ] `terraform init`
 - [ ] `terraform init -h`
 - [ ] `terraform --h init`
+- [ ] `terraform help -init`
 <details>
   <summary> Answer </summary>
   
