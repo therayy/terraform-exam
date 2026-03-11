@@ -1,4 +1,4 @@
-# Vault Associate 002
+# Terraform Associate 003
 ---
 > #### Q1: You are using the Vault userpass auth method mounted at auth/userpass.How do you create a new user named "sally" with password "h0wN0wB4r0wnC0w"? This new user will need the power-users policy.
 Which of the following commands will allow you to see the help file for the `init` subcommand?  
@@ -123,4 +123,21 @@ Community-based provider plugins are downloaded automatically when using the `te
   "Write the Terraform code > terraform init > terraform plan > terraform apply"
   
 </details>
+
+**Q10:**  
+Which of the following languages does Terraform support? *(Select the two best answers.)*
+
+- [ ] HCL
+- [ ] JavaScript
+- [ ] XML
+- [ ] JSON
+- [ ] Plaintext
+
+<details>
+  <summary> Answer </summary>
+  
+  "HCL" and "JSON"
+  
+</details>
+
 
