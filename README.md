@@ -124,7 +124,7 @@ Community-based provider plugins are downloaded automatically when using the `te
   
 </details>
 
-**Q10:**  
+#### Q10:  
 Which of the following languages does Terraform support? *(Select the two best answers.)*
 
 - [ ] HCL
@@ -140,4 +140,16 @@ Which of the following languages does Terraform support? *(Select the two best a
   
 </details>
 
+#### Q11: Which of the following is not a key principle of IaC?
 
+- [ ] Golden images
+- [ ] Idempotence
+- [ ] Self-describing infrastructure
+- [ ] Versioned infrastructure
+
+<details>
+  <summary> Answer </summary>
+  
+  "Golden images"
+  
+</details>
