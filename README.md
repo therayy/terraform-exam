@@ -109,3 +109,18 @@ Community-based provider plugins are downloaded automatically when using the `te
   "All of the above"
   
 </details>
+
+#### Q9 Which of the following is the proper workflow for deploying new infrastructure using Terraform?
+
+- [ ] Write the Terraform code > `terraform init` > `terraform plan` > `terraform apply`
+- [ ] Import the current infrastructure to the state file, update the code, and run `terraform apply`
+- [ ] `terraform init` > `terraform apply` > `terraform plan` > `terraform fmt`
+- [ ] Write the Terraform code > `terraform show` > `terraform apply`
+
+<details>
+  <summary> Answer </summary>
+  
+  "Write the Terraform code > terraform init > terraform plan > terraform apply"
+  
+</details>
+
