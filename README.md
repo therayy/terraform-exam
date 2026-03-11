@@ -153,3 +153,82 @@ Which of the following languages does Terraform support? *(Select the two best a
   "Golden images"
   
 </details>
+
+#### Q12: What is one of the advantages of using Visual Studio Code (VS Code) when working with code?
+
+- [ ] VS Code provides built-in help systems and enhanced features when the appropriate extension is installed.
+- [ ] VS Code does not support extensions, ensuring a lightweight experience.
+- [ ] VS Code lacks built-in help systems, promoting manual learning.
+- [ ] Installing extensions in VS Code can disable the built-in help systems.
+
+<details>
+  <summary> Answer </summary>
+  
+  "VS Code provides built-in help systems and enhanced features when the appropriate extension is installed."
+  
+</details>
+
+
+#### Q13: Why is it crucial to destroy infrastructure when it is no longer needed?
+
+- [ ] So you won’t be billed.
+- [ ] So you don’t have to waste time debugging unused code.
+- [ ] So the unused infrastructure cannot be hacked.
+- [ ] You should never destroy infrastructure as it can be important for other projects.
+
+<details>
+  <summary> Answer </summary>
+  
+  "So you won’t be billed."
+  
+</details>
+
+
+#### Q14: Which command will format the code to space it properly?
+
+- [ ] `terraform fmt`
+- [ ] `terraform init`
+- [ ] `terraform frmt`
+- [ ] `terraform format`
+
+<details>
+  <summary> Answer </summary>
+  
+  "`terraform fmt`"
+  
+</details>
+
+
+#### Q15: Which command(s) validate and verify the configuration?
+
+- [ ] `terraform validate and terraform plan`
+- [ ] `terraform init terraform control`
+- [ ] `terraform plan and terraform init`
+- [ ] `terraform validate and terraform control`
+
+<details>
+  <summary> Answer </summary>
+  
+  "`terraform validate and terraform plan`"
+  
+</details>
+
+
+#### Q16: What is the purpose of the Terraform block in the provided `main.tf` file?
+
+- [ ] To declare the resource being created.
+- [ ] To define the required AWS provider.
+- [ ] To specify the region for the AWS provider.
+- [ ] To set the version of Terraform being used.
+
+<details>
+  <summary> Answer </summary>
+  
+  "To set the version of Terraform being used."
+  
+</details>
+
+
+
+
+
